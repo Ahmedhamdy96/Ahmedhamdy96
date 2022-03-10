@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+##### Languages and Tools
+
+[<img src="./imgs/linux.png" width="40px" height="40px"/>]
+
 ##### connect with me
 
 [<img src="./imgs/facebook.png" width="40px" height="40px" style="margin-right:15px"/>](https://www.facebook.com/es.ahmedhamdy)
