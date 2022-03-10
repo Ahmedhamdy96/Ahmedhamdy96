@@ -2,7 +2,7 @@
 
 ##### Languages and Tools
 
-[<img src="./imgs/linux.png" width="40px" height="40px"/>]
+<img src="./imgs/linux.png" width="40px" height="40px"/>
 
 ##### connect with me
 
