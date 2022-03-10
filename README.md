@@ -2,14 +2,14 @@
 
 ##### Languages and Tools
 
-<img src="./imgs/linux.png" width="40px" height="40px"/>
-<img src="./imgs/vs.png" width="40px" height="40px"/>
-<img src="./imgs/git.png" width="40px" height="40px"/>
-<img src="./imgs/github.png" width="40px" height="40px"/>
-<img src="./imgs/python.png" width="40px" height="40px"/>
-<img src="./imgs/html.png" width="40px" height="40px"/>
-<img src="./imgs/css.png" width="40px" height="40px"/>
-<img src="./imgs/js.png" width="40px" height="40px"/>
+<img align="left" src="./imgs/linux.png" width="40px" height="40px"/>
+<img align="left" src="./imgs/vs.png" width="40px" height="40px"/>
+<img align="left" src="./imgs/git.png" width="40px" height="40px"/>
+<img align="left" src="./imgs/github.png" width="40px" height="40px"/>
+<img align="left" src="./imgs/python.png" width="40px" height="40px"/>
+<img align="left" src="./imgs/html.png" width="40px" height="40px"/>
+<img align="left" src="./imgs/css.png" width="40px" height="40px"/>
+<img align="left" src="./imgs/js.png" width="40px" height="40px"/>
 
 ##### connect with me
 
