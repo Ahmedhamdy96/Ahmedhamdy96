@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+##### connect with me
+
+[<img src="./imgs/facebook.png" width="40px" height="40px"/>](https://www.facebook.com/es.ahmedhamdy)
+[<img src="./imgs/twitter.png" width="40px" height="40px"/>](https://twitter.com/eAhmedHamdy)
+[<img src="./imgs/linkedin.png" width="40px" height="40px"/>](https://www.linkedin.com/in/ahmed-elsayed20/)
+
 <!--
 **Ahmedhamdy96/Ahmedhamdy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
