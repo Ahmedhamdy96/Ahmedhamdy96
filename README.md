@@ -10,7 +10,9 @@
 <img align="left" src="./imgs/html.png" width="40px" height="40px"/>
 <img align="left" src="./imgs/css.png" width="40px" height="40px"/>
 <img align="left" src="./imgs/js.png" width="40px" height="40px"/>
-<br>
+<br/>
+<br/>
+
 ##### connect with me
 
 [<img src="./imgs/facebook.png" width="40px" height="40px" style="margin-right:15px"/>](https://www.facebook.com/es.ahmedhamdy)
