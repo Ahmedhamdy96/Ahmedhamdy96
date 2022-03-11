@@ -21,7 +21,7 @@
 
 ##### play chess with me
 
-<img align="left" src="./imgs/chess.png" width="40px" height="40px"/>
+[<img src="./imgs/chess.png" width="40px" height="40px" style="margin-right:15px"/>](https://lichess.org/@/ahmedhamdy96)
 
 <!--
 **Ahmedhamdy96/Ahmedhamdy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
